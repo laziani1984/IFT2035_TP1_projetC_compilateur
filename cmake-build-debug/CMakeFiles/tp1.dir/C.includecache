@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/udem/IFT2035/projetsC/tp1/tp1 Abdel/tp1/debug.h
+stdio.h
+-
+stdlib.h
+-
+
+C:/udem/IFT2035/projetsC/tp1/tp1 Abdel/tp1/petit-comp.c
+stdio.h
+-
+stdlib.h
+-
+strings.h
+-
+setjmp.h
+-
+debug.h
+C:/udem/IFT2035/projetsC/tp1/tp1 Abdel/tp1/debug.h
+
